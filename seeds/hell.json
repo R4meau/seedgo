@@ -1,0 +1,11 @@
+[{
+"firstName": "Joe-Bernick",
+"lastName": "Rameau",
+"email": "r4meau@gmail.com",
+"gender": "male",
+"birthDate": "1995-06-21T00:00:00.000Z",
+"avatar": {
+  "path": "/medium_jrameau.jpeg",
+  "lastUpdated": 1485969235335
+}
+}]

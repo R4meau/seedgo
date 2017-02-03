@@ -1,0 +1,6 @@
+[{"db": "mongodb://localhost:27017/sample", "drop": true},
+{"first_name":"Shirley","last_name":"Holmes","email":"sholmes0@utexas.edu"},
+{"first_name":"Harry","last_name":"Rodriguez","email":"hrodriguez1@bbc.co.uk"},
+{"first_name":"Ryan","last_name":"Fox","email":"rfox2@youtube.com"},
+{"first_name":"Stephen","last_name":"Woods","email":"swoods3@hp.com"},
+{"first_name":"Diane","last_name":"Willis","email":"dwillis4@bravesites.com"}]

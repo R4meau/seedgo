@@ -1,0 +1,18 @@
+{
+  "name": "seedgo",
+  "version": "0.1.0",
+  "description": "A CLI tool to easily populate data from json files to your mongo db.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "seed": "./bin/seed"
+  },
+  "author": "Nick Rameau",
+  "license": "MIT",
+  "dependencies": {
+    "json2mongo": "^1.1.0",
+    "mongodb": "^2.2.22",
+    "q": "^1.4.1"
+  }
+}

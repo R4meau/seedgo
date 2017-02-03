@@ -1,0 +1,40 @@
+[{
+  "db": "mongodb://localhost:27017/test",
+  "drop": true
+  },{
+  "firstName": "Joe-Bernick",
+  "lastName": "Rameau",
+  "email": "r4meau@gmail.com",
+  "gender": "male",
+  "birthDate": "1995-06-21T00:00:00.000Z",
+  "avatar": {
+    "path": "/medium_jrameau.jpeg",
+    "lastUpdated": 1485969235335
+  },
+  "role": "Developer",
+  "password": "$2a$10$yHPPgzOjjSGvQ8ijlwf.OuX01.vQc2KwvZazO2QvRYU7OtUI2jCR2"
+}, {
+  "firstName": "Pete",
+  "lastName": "Swanson",
+  "email": "pswanson@student.42.us.org",
+  "gender": "male",
+  "birthDate": "1995-06-21T00:00:00.000Z",
+  "avatar": {
+    "path": "/medium_pswanson.jpeg",
+    "lastUpdated": 1485969235335
+  },
+  "role": "Developer",
+  "password": "$2a$10$9yIPDtOuXFevAXLEeXuorek42zaI1v8sp7nQvRD95mpWJrYKLXAcC"
+}, {
+  "firstName": "Robert",
+  "lastName": "Nowelll",
+  "email": " rnowell@student.42.us.org",
+  "gender": "male",
+  "birthDate": "1995-06-21T00:00:00.000Z",
+  "avatar": {
+    "path": "/medium_rnowell.jpeg",
+    "lastUpdated": 1485969235335
+  },
+  "role": "Developer",
+  "password": "$2a$10$kaHDcLEyVqh/vfJev9YFq.ulRUovPwRL.pO96PY9HjaJEl82lwT/y"
+}]
